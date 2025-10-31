@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 header {
-    background-color: #0077cc;
+    background-color: #7e00cc;
     color: white;
     text-align: center;
     padding: 1.2em 0;
@@ -17,7 +17,7 @@ main {
     margin: auto;
 }
 button {
-    background-color: #0077cc;
+    background-color: #9500ff;
     color: white;
     border: none;
     padding: 10px 20px;
